@@ -1,13 +1,13 @@
-header{
+#hdr1{
 background-color: lime;
 border: 2px solid black;
 }
-h1{
+#hr1{
     background-color: black;
     color: lime;
     text-align: center;
 }
-ol{
+#list1{
     font-weight: bold;
     padding: 0;
     margin: 0;
@@ -52,7 +52,65 @@ ol{
 #Ruby{
     display: inline-block;
 }
-footer{
+#ftr1{
     background-color: lime;
     border: 2px solid;
+}
+#hdr2{
+    background-color:lime; 
+    border:2px solid;
+}
+#hr2{
+    background-color:black; 
+    color:lime; 
+    border:3px solid;
+    text-align: center;
+}
+#list2{
+    padding: 0;
+    margin: 0;
+}
+#L12{
+    background-color:black; 
+    color:rgb(97, 194, 250); 
+    border:2px solid black;
+}
+#DartH2{
+    display: inline-block;
+}
+#L22{
+    background-color:rgb(126, 88, 64); 
+    color:gold; 
+    border:2px solid black;
+}
+#Java2{
+    display: inline-block;
+}
+#L32{
+    background-color:darkblue; 
+    color:lime; 
+    border:2px solid black;
+}
+#CPlusPlus2{
+    display: inline-block;
+}
+#L42{
+    background-color:darkblue; 
+    color:lime; 
+    border:2px solid black;
+}
+#CSharp2{
+    display: inline-block;
+}
+#L52{
+    background-color:red; 
+    color:white; 
+    border:2px solid black;
+}
+#Ruby2{
+    display: inline-block;
+}
+#ftr2{
+    background-color:lime; 
+    border:2px solid;
 }
