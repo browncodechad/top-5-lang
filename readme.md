@@ -1,4 +1,4 @@
-I first wrote some code myself. And it was pretty lengthy as you can see. I then asked AI to suggest me an alternative way to write it. I then took AI's version and compared it to mine, then created a final version merging both of them.
+I first wrote some code myself. And it was pretty lengthy as you can see. I then asked AI to suggest me an alternative way to write it. I then took AI's version and compared it to mine, then created a final version merging both of them. It is only a few days after creating this project that I'm typing this readme for it, and I will say that today is also the day I deleted AI from my life as well. I deleted all my accounts on all AI platforms because I just didnt like to use it anymore and wanted to protect my brain from rotting. I'll only use AI if I absolutely have to, but otherwise I'll always have a work around for it.
 
 Now of course when I was doing the version control during this project I wasnt well versed in using Git, and tbh Im still learning it.
 
